@@ -15,13 +15,18 @@ The **Attendance Management System** is a PowerApps-based solution for managing 
 ![Image](https://github.com/user-attachments/assets/4f8409d3-c402-443f-ad64-162f83824731)
 *Employees can check out at the end of the day.*
 
+
+### 👥 Check-Out Notification
+![Image](https://github.com/user-attachments/assets/93824cda-c8c8-4410-92d9-d68b6e85410f)
+*Employees can check out at the end of the day & get and confirmation Popup*
+
 ### 👥 Admin - All Attendance List
-![Admin Attendance]![Image](https://github.com/user-attachments/assets/a6baeb1f-c092-4de2-9acd-5a02176fb359)
+![Image](https://github.com/user-attachments/assets/a6baeb1f-c092-4de2-9acd-5a02176fb359)
 
 *Admins can view the full attendance records of all employees.*
 
 ### 📅 User Attendance Details
-![User Attendance](screenshots/user-attendance.png)
+![Image](https://github.com/user-attachments/assets/43b1d3ad-b2f8-4392-a3cd-1cc93055c298)
 *Users can view their own attendance history.*
 
 ---
