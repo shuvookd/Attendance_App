@@ -7,7 +7,7 @@ The **Attendance Management System** is a PowerApps-based solution for managing 
 ## 📸 Screenshots
 
 ### ✅ Check-In Page
-![Check In](screenshots/check-in.png)
+![Image](https://github.com/user-attachments/assets/7b5f65e4-92e6-4541-b907-17313d614a7c)
 *Employees can check in at the beginning of the day.*
 
 ### ❌ Check-Out Page
@@ -56,11 +56,15 @@ The **Attendance Management System** is a PowerApps-based solution for managing 
 
 ---
 
-## 👤 Author
+## 📧 Contact
 
-**[Your Name]**  
-Graduate Teaching Assistant | MSc in Data Science  
-Technology Specialist at Apptriangle Limited
+For any technical support or questions about the app, please contact:
+
+**Developer**:
+-  Shuvo Kumar Das
+- 📧 [shuvokd1210@gmail.com]
+- 🌐 [https://www.linkedin.com/in/shuvookd/]
+
 
 ---
 
