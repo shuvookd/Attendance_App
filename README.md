@@ -7,7 +7,7 @@ The **Attendance Management System** is a PowerApps-based solution for managing 
 ## 📸 Screenshots
 
 ### ✅ Check-In Page
-![Image](https://github.com/user-attachments/assets/7b5f65e4-92e6-4541-b907-17313d614a7c).
+![Image](https://github.com/user-attachments/assets/7b5f65e4-92e6-4541-b907-17313d614a7c)
 *Employees can check in at the beginning of the day.*
 
 ### ❌ Check-Out Page
@@ -16,6 +16,7 @@ The **Attendance Management System** is a PowerApps-based solution for managing 
 
 ### 👥 Admin - All Attendance List
 ![Admin Attendance](screenshots/admin-attendance.png)
+#
 *Admins can view the full attendance records of all employees.*
 
 ### 📅 User Attendance Details
