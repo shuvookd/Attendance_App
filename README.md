@@ -1,8 +1,4 @@
-# Attendance_App
-This PowerApps-based application allows employees to check in and check out of work easily. Admins can view the attendance of all employees, while individual users can track their own attendance history. It simplifies attendance tracking and ensures transparency across the organization.
-
-
-# ⏱️ Attendance Management System - PowerApps
+# ⏱️ Attendance Management System
 
 The **Attendance Management System** is a PowerApps-based solution for managing employee check-ins and check-outs. It offers real-time attendance tracking for users and comprehensive attendance oversight for admins. This app is designed to simplify the attendance process and enhance visibility into workforce activity.
 
